@@ -13,7 +13,7 @@ main.ipynb
 ``  contains the notebook with all the functions, visualizations and explanations of the assignment
 
 -``
-algorithmic question.ipynb
+algorithmic_question.ipynb
 ``  contains the answer to the algorithmic question of the assignment
 
 
